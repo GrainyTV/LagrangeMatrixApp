@@ -1,0 +1,15 @@
+C:\Users\narpa\Documents\Personal\School\LagrangeMatrixApp\LagrangeMatrixApp\bin\Debug\net6.0\LagrangeMatrixApp.exe
+C:\Users\narpa\Documents\Personal\School\LagrangeMatrixApp\LagrangeMatrixApp\bin\Debug\net6.0\LagrangeMatrixApp.deps.json
+C:\Users\narpa\Documents\Personal\School\LagrangeMatrixApp\LagrangeMatrixApp\bin\Debug\net6.0\LagrangeMatrixApp.runtimeconfig.json
+C:\Users\narpa\Documents\Personal\School\LagrangeMatrixApp\LagrangeMatrixApp\bin\Debug\net6.0\LagrangeMatrixApp.dll
+C:\Users\narpa\Documents\Personal\School\LagrangeMatrixApp\LagrangeMatrixApp\bin\Debug\net6.0\ref\LagrangeMatrixApp.dll
+C:\Users\narpa\Documents\Personal\School\LagrangeMatrixApp\LagrangeMatrixApp\bin\Debug\net6.0\LagrangeMatrixApp.pdb
+C:\Users\narpa\Documents\Personal\School\LagrangeMatrixApp\LagrangeMatrixApp\obj\Debug\net6.0\LagrangeMatrixApp.csproj.AssemblyReference.cache
+C:\Users\narpa\Documents\Personal\School\LagrangeMatrixApp\LagrangeMatrixApp\obj\Debug\net6.0\LagrangeMatrixApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narpa\Documents\Personal\School\LagrangeMatrixApp\LagrangeMatrixApp\obj\Debug\net6.0\LagrangeMatrixApp.AssemblyInfoInputs.cache
+C:\Users\narpa\Documents\Personal\School\LagrangeMatrixApp\LagrangeMatrixApp\obj\Debug\net6.0\LagrangeMatrixApp.AssemblyInfo.cs
+C:\Users\narpa\Documents\Personal\School\LagrangeMatrixApp\LagrangeMatrixApp\obj\Debug\net6.0\LagrangeMatrixApp.csproj.CoreCompileInputs.cache
+C:\Users\narpa\Documents\Personal\School\LagrangeMatrixApp\LagrangeMatrixApp\obj\Debug\net6.0\LagrangeMatrixApp.dll
+C:\Users\narpa\Documents\Personal\School\LagrangeMatrixApp\LagrangeMatrixApp\obj\Debug\net6.0\ref\LagrangeMatrixApp.dll
+C:\Users\narpa\Documents\Personal\School\LagrangeMatrixApp\LagrangeMatrixApp\obj\Debug\net6.0\LagrangeMatrixApp.pdb
+C:\Users\narpa\Documents\Personal\School\LagrangeMatrixApp\LagrangeMatrixApp\obj\Debug\net6.0\LagrangeMatrixApp.genruntimeconfig.cache
